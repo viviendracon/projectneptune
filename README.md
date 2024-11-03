@@ -34,7 +34,7 @@ The system uses deep seawater's natural ability to absorb CO₂, enhanced throug
 - Infrastructure Developers
 - Environmental Organizations
 
-### Document Structure
+### Wiki Contents
 1. Executive Summary and Strategic Overview
 2. Technical Specifications
 3. Economic Analysis
